@@ -5,6 +5,11 @@ A fully responsive landing page for the fictional food delivery company "OMNIFOO
 **Live Site URL:** [Visit Now 🚀](https://aditya-omnifood-practice.netlify.app/)
 
 ---
+Screenshots
+![hero-section](https://github.com/user-attachments/assets/743ee5e7-ea55-42d9-8edf-d2038dfc533d)
+![howitworks1-section](https://github.com/user-attachments/assets/8ba5cca1-f4a7-40cb-b6de-08f6d5e6d8bf)
+![cta-section](https://github.com/user-attachments/assets/fce596e1-5376-49f2-b8e6-f00fe9e2e252)
+![footer-section](https://github.com/user-attachments/assets/c60222c9-ae2e-4830-9922-9601cdc6826e)
 
 
 ---
