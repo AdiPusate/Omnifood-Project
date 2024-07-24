@@ -2,7 +2,10 @@
 
 A fully responsive landing page for the fictional food delivery company "OMNIFOOD," built using modern HTML5, CSS3, and JavaScript.
 
-📌 **Live Site URL:** [Visit Now 🚀](#https://aditya-omnifood-practice.netlify.app/)
+**Live Site URL:** [Visit Now 🚀](https://aditya-omnifood-practice.netlify.app/)
+
+---
+
 
 ---
 
